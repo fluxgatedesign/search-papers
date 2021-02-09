@@ -1,3 +1,0 @@
-chrome_drivers
-data
-papers_search
