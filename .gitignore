@@ -5,4 +5,5 @@ Scripts
 venv
 .idea
 pyvenv.cfg
+papers_search.egg-info
 
